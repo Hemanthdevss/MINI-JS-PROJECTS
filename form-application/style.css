@@ -1,0 +1,34 @@
+.inputStyle {
+    margin-top:7px;
+    width: 200px;
+    height: 18px;
+}
+
+.nameContainerStyle {
+    margin-bottom: 7px;
+}
+
+.emailContainerStyle {
+    margin-top:7px;
+    width: 200px;
+    height: 20px;
+}
+
+.borderBw {
+    margin-top: 7px;
+}
+
+.genderTitleStyle {
+    font-family: "Roboto";
+    font-size: 15px;
+    font-weight: 100;
+}
+
+.buttonStyle {
+    background-color:blue;
+    color:white;
+}
+
+.errorMessageStyle {
+    color:red;
+}

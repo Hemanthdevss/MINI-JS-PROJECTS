@@ -1,0 +1,88 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title> Form Application </title>
+    <link rel="stylesheet" type="text/css" href="style.css">
+</head>
+<body>
+    <div>
+        <h1> Form Application </h1>
+        <form id = "myForm">
+            <div class = "nameContainerStyle">
+                <label class = "nameStyle" for = "name"> Name </label>
+                <br>
+                <input class = "form-control inputStyle" type = "text" id = "name"> 
+                <p id = "errorMessage" class = "errorMessageStylename"> </p>
+            </div>
+
+            <div class = "emailContainerStyle">
+                <label class = "nameStyle" for = "email"> Email </label>
+                <br>
+                <input class = "form-control inputStyle" id = "email" type = "text"> 
+                <p id = "errorMessage" class = "errorMessageStyleemail"> </p>
+            </div>
+
+            <br>
+            <br>
+
+            <div>
+                <label for = "status"> Status </label>
+                <br>
+                <select  class = "borderBw" id = "status">
+                    <option id = "status" class = "statusStyle" value = "Active"> Active </option>
+                    <option id = "status" class = "statusStyle" value = "Inactive"> Inactive </option>
+                </select>
+
+            </div>
+
+            <div>
+                <h1 class = "genderTitleStyle"> Gender</h1>
+                
+                    <input type = "radio" name = "gender" id = "male" value = "male" checked>
+                    <label for = "male"> Male </label>
+                
+
+                
+                    <input type = "radio" name = "gender" id = "Female" value = "female">
+                    <label for = "male"> Female </label>
+                
+
+
+            </div>
+
+            <br>
+
+            <button class = "buttonStyle" type = "submit"> Submit </button>
+
+            
+
+
+        </form>
+    </div>
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    <script src = "script.js"> </script>
+        
+    <script src = "script1.js"> </script>
+</body>
+</html>
