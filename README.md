@@ -4,11 +4,6 @@ Welcome to my mini projects repository! Here, you'll find a collection of small 
 
 Feel free to explore the projects and use them as examples or starting points for your own web development endeavors.
  
-## Project List
-
-1. **Project 1** - This project is a simple web-based to-do application created with HTML, CSS, and JavaScript. Its purpose is to help users manage their tasks and stay organized. Users can add, update, and delete tasks, mark them as completed, and view their to-do list at a glance. It serves as a foundational example for those looking to learn web development or to build a basic to-do list application.
-   - [Demo]( will be updated soon!! )
-   - [Code] -> (https://github.com/Hemanthdevss/mini-projects-js/blob/12a4e66bce80d9c83541adec363666624a3bc924/Basic%20Todo%20Application/index.html))
 
 ## Usage
 
